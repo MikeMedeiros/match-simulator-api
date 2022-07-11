@@ -9,11 +9,45 @@
       "nome":"Brasil",
       "forca":"5",
       "imagem":"https://www.bandeirasnacionais.com/data/flags/normal/br.png"
-    }
+    },
     "Visitante":{
       "nome":"Uruguai",
-      "forca":"5",
+      "forca":"4",
       "imagem":"https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+     }
+   },
+   {
+    "descricao":"Eliminatórias da copa",
+    "Local":{
+      "nome":"Nilton Santos",
+      "imagem": "TODO"
+    },
+    "Mandante":{
+      "nome":"China",
+      "forca":"4",
+      "imagem":"https://www.bandeirasnacionais.com/data/flags/normal/cn.png"
+    },
+    "Visitante":{
+      "nome":"Suiça",
+      "forca":"4",
+      "imagem":"https://www.bandeirasnacionais.com/data/flags/normal/ch.png"
+     }
+   },
+   {
+    "descricao":"Eliminatórias da copa",
+    "Local":{
+      "nome":"Sentenário",
+      "imagem": "TODO"
+    },
+    "Mandante":{
+      "nome":"Estados Unidos",
+      "forca":"3",
+      "imagem":"https://www.bandeirasnacionais.com/data/flags/normal/us.png"
+    },
+    "Visitante":{
+      "nome":"Argentina",
+      "forca":"5",
+      "imagem":"https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
      }
    }
   ]
